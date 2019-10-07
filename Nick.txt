@@ -1,0 +1,7 @@
+SnailTech Socratic Questions
+
+1) How much are you willing to spend on this project?
+2) Is upgrading the wireless technology an option?
+3) What information does the database contain exactly? 
+4) How exactly are you recording attendance right now? 
+5) Do you have any preferences on how you want us to record attendance? 
