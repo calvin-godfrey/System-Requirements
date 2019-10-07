@@ -1,8 +1,10 @@
 Allen Questions:
 1. What are their pre-existing systems like?
-
+ -> What is wrong with the current system?
+ -> What features from the current system do you want to keep?
 
 2. Are report cards done electronically, and can we work with that system?
-
+ -> Would expanding existing infrastructure be an option?
 
 3. Will we have to deduct course credit for absences?
+ -> Should this be done automatically, or have a notification be given to an administrator?
