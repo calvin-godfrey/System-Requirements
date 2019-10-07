@@ -1,8 +1,16 @@
 How long do we have to make this process?
 How is attendance currently done?
+
+Nick counter-question response: What would you say are the biggest problems with your attendance system as it is? Is there a lack of accuracy?
+
 Is there wired internet connections in the classrooms that are faster than wireless?
+
+Nick response: What infastructure is in place, and do you prefer wireless?
+
 How robust is the database/server hosting the dabase?
 Should warning letters go out automatically?
 Would taking attendence during lunch be feasible?
 How consistent is uptime for internet connections in classrooms?
 Is there currently someone in charge of the database?
+
+Nick: Are there multiple people, and what are there roles? 
