@@ -1,0 +1,8 @@
+How long do we have to make this process?
+How is attendance currently done?
+Is there wired internet connections in the classrooms that are faster than wireless?
+How robust is the database/server hosting the dabase?
+Should warning letters go out automatically?
+Would taking attendence during lunch be feasible?
+How consistent is uptime for internet connections in classrooms?
+Is there currently someone in charge of the database?
